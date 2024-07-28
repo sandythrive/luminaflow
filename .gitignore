@@ -1,0 +1,2 @@
+.aider*
+echo node_modules >> .gitignore

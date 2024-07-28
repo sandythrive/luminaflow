@@ -1,2 +1,2 @@
 .aider*
-echo node_modules >> .gitignore
+echo node_modules >> .gitignorenode_modules 
